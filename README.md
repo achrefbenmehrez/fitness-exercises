@@ -1,4 +1,4 @@
-# Gmail Clone
+# Fitness exercises
 This app was built with ReactJs.
 
 ## Live preview 
